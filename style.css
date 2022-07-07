@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.neymar {
+    width: 50%;
+    padding-left: 30%;
+
+}
+
+
+p {
+    text-align: center;
+    color: black;
+}
+
+.messi {
+    background-image: url(images/donation9.jpg);
+
+    background-repeat: no-repeat;
+
+    background-attachment: scroll;
+    background-position: center;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 2px 50px;
+    color: white;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.ronaldo {
+    display: flex;
+    width: 50%;
+    padding-left: 35%;
+
+}
+
+#div1 {
+    width: 70px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
+
+#div2 {
+    width: 72px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
+
+#div3 {
+    width: 73px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
+
+#div4 {
+    width: 90px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
+
+#div5 {
+    width: 90px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: 20px;
+}
+
+#div1:hover {
+    background-color: blue;
+}
+
+#div2:hover {
+    background-color: blue;
+}
+
+#div3:hover {
+    background-color: blue;
+}
+
+#div4:hover {
+    background-color: blue;
+}
+
+#div5:hover {
+    background-color: blue;
+}
+
+.pala {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 2px 50px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conclusion {
+    text-align: center;
+    background-color: black;
+
+}
+
+.plan-program {
+    display: flex;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-bottom: auto;
+    width: auto;
+    box-shadow: 30px 30px 50px;
+}
